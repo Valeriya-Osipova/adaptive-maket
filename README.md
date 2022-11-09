@@ -1,4 +1,4 @@
 # adaptive-maket
 
-Adaptive site
+Adaptive site \
 Created using flex box, script in Jquery
